@@ -1,0 +1,165 @@
+span,p {
+	display: inline-block;
+	padding-left: 2px;
+	font-family: 'Comfortaa', cursive;
+	font-size: 15px;
+}
+
+/*ⓒ 2018 Powered by Javascript OOP. Created by Firdovsi Rustemov*/
+
+/*Head Style*/
+
+#head a,p {
+	color: #0088cc;
+	font-weight: bold;
+	font-family: 'Comfortaa', cursive;
+}
+
+
+/*Table Selection Style */
+
+#table-selection .col-md-12:first-child {
+	margin-top: 40px;
+}
+
+#table-selection  img {
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	border:1px solid red;
+	margin-top: 150px;
+	margin-bottom: 10px;
+}
+
+#table-selection h4 {
+	font-weight: bold;
+	color: #0088cc;
+	font-family: 'Comfortaa', cursive;
+}
+
+#table-selection button {
+	font-family: 'Comfortaa', cursive;
+}
+
+
+
+/*Main Area Style*/
+
+#main-area {
+	/* display: none; */
+}
+
+
+
+/*Shwo Area Style*/
+#show-area .col-md-2, .col-md-1 {
+margin-top: 25px;
+}
+
+#show-area .col-md-2 {
+border:1px solid black;
+height: 100px;
+}
+
+#show-area img {
+	width: 60px;
+	height: 60px;
+	margin-top: 20px;
+	border-radius: 100%;
+	border:1px solid red;
+}
+
+#show-area .icon {
+	border:none;
+}
+
+#show-area i {
+	color: black;
+	padding-top: 10px;
+}
+
+#show-area h5 {
+	color: black;
+	font-size: 17px;
+	padding-top: 6px;
+	font-family: 'Comfortaa', cursive;
+	margin-bottom: 0px;
+}
+
+#show-area p {
+	height: 2px;
+}
+
+/*Table Area Style */
+
+#table-area {
+	margin-top: 30px;
+	font-family: 'Comfortaa', cursive;
+}
+
+#table-area .col-md-2 {
+	border: 0.5px solid #005580;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+#table-area .col-md-2:hover {
+	color: #fff;
+	border-color: #1d2124;
+}
+
+#table-area img {
+	padding-top: 15px;
+}
+
+#table-area h4 {
+	font-weight: bold;
+	font-size: 18px;
+	color: #002233;
+	padding-top: 10px;
+	text-align: center;
+}
+
+button {
+	margin-top: 10px;	
+	margin-bottom: 20px;
+}
+
+
+/*Account History*/
+
+#accounthistory {
+    /*display: none;*/
+}
+
+#accounthistory h1 {
+    text-align: center;
+    padding-bottom: 10px;
+    color:  #3399ff;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+#accounthistory .table-scroll {
+height: 500px;
+overflow: scroll;  
+font-family: 'Comfortaa', cursive;
+}
+
+#accounthistory .container {
+  margin-top: 10px;
+  font-family: 'Comfortaa', cursive;
+}
+
+#accounthistory small,p {
+  display: inline-block;
+  padding-left: 5px;
+  font-weight: bold;
+}
+
+
+#accounthistory h2 {
+	color: #002233;
+	font-family: 'Comfortaa', cursive;
+}
